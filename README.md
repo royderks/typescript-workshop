@@ -1,0 +1,77 @@
+### Ex 1a - Everyday types
+
+Go to the TypeScript playground [here](https://www.typescriptlang.org/play?#code/PTAEHkFcBcAcdAQ1AO0gWwEYFMBOBYAKAGMB7FAZ2lQx11AF5QAKASxXmgEpGA+UdpwDcRImUqkANtgB0k0gHNmaLHmYBGLlxGEiICDE5JQVXOwVjyVE9DMoFjFoJg8G-Z9B2WJ0uYuam5swA5AAW2JLywVpehPpQcAjIKnTe1pikUtiIKI5sHC58AgWeoiRWWX5KGVk5zLaQ2DFl8YZJuYi4uIgAnqCkAGY0qrgUadQpeACCXb15Hq7uJbHiFJXySpO4M909zADa6gA0oABMJwDMALrNunFgCUY5SLN9gzZ2CmPllNSB9js5kx8pxFsVhGVVut-P8FIC9vtguRsMETsFoAB3Uio0Do0K4bAom7aIhAA). Can you fix the errors?
+
+### Ex 1b - Everyday types
+
+Go to the TypeScript playground [here](https://www.typescriptlang.org/play?#code/PTAEHkFcBcAcdAO0gWwEYFMBOBYAUAMYD2iAztKAIYAm1oAvKABQAeANKAJ4CUDAfKBagA1F3z5iZIgBsMAOmlEA5kxrUmARg4Ambt3F4QEGPArJ02fADNIiAtACWJUKVSsOnBqF2gA3qHxQUCwMaEgsREERLgC8AF8DSVIZeUUVVxRNHT0JEmTZBWUmDM0cvHwjKDgESiwsSk8iKyRUTCxSa1t7J0iCSmkCVTqG3l9AoNAkihDXaQpGWvrOORRKWCZWXnoBIQAqQW4AbnGgkLCI4IxZ6GP4xLyUwpU+gaYAbS1vDgAWDgA2DgADg4GgADABdPS3CpgKqmFzQLAORBKTp2RzOAAWGGkilUHDQo1ip1C4UilGiACJQNTRGg5NAiABlRHIlT6O7lQgPAppJjY3FEJiUgWKSkgsow4zVMytSx4GzonqTIi2aD40CEvzEy7nckKDAo6CY6L02RGzH4BJcpKPPnENXC0VEcU0gDuRCw0molMlhlhJgQ5jaoE9LVxaO6zgdiGgAGESNQHBjEP0NYSAFwtCxYUAAH3D0m14wczSYZsNSmNoAEAFZRiddWTC+NreMzs3KAaLabu1XLZzclJeUUY-HE8memmRTixRxKR6vT6yraR89VbGE4gkynp87XQvPd7SL7uEA). Can you fix the errors?
+
+### Ex 1c - Everyday types
+
+Go to the TypeScript playground [here](https://www.typescriptlang.org/play?#code/PTAEDEFcDsGMBcCWB7ap4AsCG91YNYCmAzqFtMpoQE6gBmMCKaWpi0ADpPALABQDOElSgA5tUKEk0UcQAU7LvACUoAN79QoRdzkByABKEANseSgA6smrGAJnuUBufgF9+-QUxEdq7eHKxVDT4tWFRiZGNCADozUQCnV3c+cUlpWTkfP0S+fhAIRmE0AHdETFBbRDo6GkJoXB1ceABPDhJ+MOhiXFgJHEIAZTr4OthCUABeUDlNUGKMZAAaWdtkEmWQ0Gjt5AAjACtCBGJ+VQmAPnVZiXhIahKF0ABqUD1X54q10he3t5e9w7HVzOXJ8ToRKKxZDxXqEfpDeqjQj6AC2zVAEWgekWr362NeKMg1XYxHxejo1EgZTJHHIsAIJAcOXBkRicTksPhwyRqPRmLJxCiHHgZKwpgqWGaTJBLMh7M5IwRIzgyL0aIxqAF0EkAC9CPZlDlkkA). Can you fix the errors?
+
+## 2
+
+Objects vs interfaces
+> https://www.typescriptlang.org/play?&q=491#code/C4TwDgpgBAglC8UDeBYAUFKBnA9gWwmAAsBLAOwHMAubYAJ3IvQF911RIoAhBZdTAGYkIAGwAmNMgFc8AIwh0WUAGRQAwmzQdoALV6oMUIaIlRpchUtUxN6csAUCAhgGNoavodwFijGlnpGFk17R1doABEoCAAPBzIxLHVPQWFxSRl5RTRWNE0XHDIAqDwQAHlZACsIF2AaKMQDTG9CUkoaAHIBHBwOgBp+IzTTAFYWIA
+
+### Ex 2a - Types & Interfaces
+
+Go to the TypeScript playground [here](https://www.typescriptlang.org/play?#code/PTAEHkFcBcAcdAQwHagPYCMBWBTAxtKAM7QBOAlsgOagDu50AFqNAJ6w4CwAUHmsiXTZ8hALygAFJXjQAlKFEA+UNJgA6aDgAe0ANw8efAWgA2ONSbRUJmXAQkBvFtugAuUAHJGOE5bppSEwATD1AAX1lZfW4eEAgYGSRUWxFiMkoaeiYVZE1SADNEPC5efkFKPMLihUlVOQVlOo0XaMMy03NLawqcAqKcR2cddy8fP1oA4NCIqINuOKg4BERQZBwSHCChO0ISCmo6BmY2DnRSHMr+toFCNY2ggElc3qqcGokeUByZABoeeSU33Ud00QWaOlapWMZgsVgkIM2T0uxUGCKC7icmmGngmgRC4XCkWiQA). Can you fix the errors?
+
+### Ex 2b - Types & Interfaces
+
+Go to the TypeScript playground [here](https://www.typescriptlang.org/play?#code/PTAEFEA8BcFMDsAmoCGpoE8AOsCwAoTHUAIRQGdYB5AIwCtYBjaUAXlAG8DR1YYAuUOWgAnAJbwA5gG4CAX1n4CjAPbxhoPnCSxEtBszagAFBKwBXaILKV9TaAEo2APlBnLAOjgxQAalAA5AF+bvAW0B6q5vDQispq5CoANrAeSSqSxloIiLp2zMYcvAKBABawSemgAO4qIkmIAQA0oFExggCMoHIODnH4IBAwOajwoXAiAGYojHj4EhPTs6QUsACSMbBTM7Cc3MVWQqISMvIE8eos2TqIG4s7RqZhltard1tLsE6szvvuEd4WP4giF-pEVNFYud8Kp1MlUulMtdcrdNttZoUDoIAuVKioanUGs1WhD2qAuj0+kA). Can you fix the errors?
+
+### Ex 2c - Types & Interfaces
+
+Go to the TypeScript playground [here](https://www.typescriptlang.org/play?#code/PTAEEkBcFMCcEMagPYDc4oEYCtoGNIVZQBLAOxlgDN49oBYAKD2TIGdDkd9I3QBeUAG0moUAG9RY0JBKQANtABcoAOQBGAJwAOACyqANFLHwArpAAWyWCtUBxaNYDm0UAHlYAd2jz5hqQC+RoxikiHSsgrKagCCZCQAtvDyoABi8LAJ-uEm5lY2ag7Orh7evtliQUwAugDcTEws7IRycIjQbtwEAqAAFOQADuYAlAIAfKRkQ5D1jI2sbMiKAHTyyE79lO2duAS9XLu8w8OzTCAQW0hoGNAAHjBkACbQj1iHRJOUNHSgnnIWKAGslYyVAqGSpgYzAWhDMlmsfEEInCYWkoCoJFgHDI8AS0XsjlgLgq0nk8GxuPxpR8fmClTpEmM6MxFLxtgAUsh4GQyNASWIEiRHo9FDi2WoANL80Bk1n4gBKyE88nIThJVUYdQa0OapEuHS6kAA6v9kOY3ECSCCUoJ+lMRuNJtNZk0OHq2jAdjwTZYLcCcTa+qjmVjIGLoAzBcLRZSGbKw7GmAFRvwJr1gxjQ+HI0KRdBs1J4wXGMnTjrFis1htWghPYafVZzZbrb04fk2EIAAzVY4uhZLaCrdabD0Gw4Nv1WgOtvIIoTqHsnJhAA). Can you fix the errors?
+
+### Ex 3a - Generics
+
+Go to the TypeScript playground [here](https://www.typescriptlang.org/play?#code/PTAEHkFcBcAcYM6gG4EMA2kCmBYAUAGaQB2AxtAJYD2xoA5lsVgE4WkIAUFx80AlKADe+UKGZZokZrW68A3PgC++fKRoIq6LADp0VOhwZNW7DgEY+fBXjXENW3fsOMWbTgHIAFlnR73l61t7HT0DI1dTaGZsANV1TRCncJNOAG0zABpQACYsgGYAXVi8fBAIGF5QVGZmVABPUCoCFAxsBHwiMkoaehcUgEEa+o5q2rqBYTxRcUlpKqG662USm3iHUOdjN0GxjnSs3NAAFiyANiyADiyzAAYiqzi7BMcwvu2FvfcaLHcs92gAO5UX6gf6ecQ-e6BNaJV5bdg7Yb7UGA4FZKLYKEqPBlADib3YoABFGgnlAAFtIOhKLAtKBZDBQNA6rAsO1CCRyNRaMk3ABZKmUEZZABGExEYgkUlogiqotAiiW2KCzw2vPYAupFA4Xh8fmuxRV6ySBIQmqFmVB3l8wMNMJemwiZsF2st2WKpTA+PhSGJpNAQSiqG40A6nO6PNNAGF1EGQwAeAAqWQAqgA+EYALlAydAIuzKfFU0ls1oqFAAGpQdWqyLdIw6KSlSsjbDHSkY3Y48RoDrrfrQKl3EDmOgACbuLGrJ7GuFOzsIbu93U2kHDqijifFIA). Can you fix the errors?
+
+### Ex 3b - Enums
+
+Go to the TypeScript playground [here](https://www.typescriptlang.org/play?#code/PTAEFEDsFcFtRrARgUwE4GcCwAoFjQBhAe2kgBdQBvXUUAeUhQBpbQAVAd2NZzvYAWaFCzYAxUml4BfXLgBmZAMbkAlsUiglpCugAUqyAAdo5AJTU2q+aAPHToALzOiO8gDpBwlBZp86oMLk0Gia5GjQKADcbLL+QSGa8gCGADYY0bhxuNqQGMSpKO6pxADmetpk5PoADGZmUaAgoADqAqpKAqAAbmmRgSjBoRig4ZEA-HI4zVBwoBjhhqXYeAT0RmoaI350YqqYlI6gAOTy+wvHvHQAyii5ACZOJxkPl2yC+49Hx+TtaPdvHDZHCKSAqdSaYgbCEYOwmcyWfzWWyGeFOFzrTZ5dy3B6+Nh0BKhUYRTL+OKEwaJUApdJk4G5fKFYplPRQrGw47HeqNZptDpdXqpfpEvIkia4IA). Can you fix the errors?
+
+### Ex 3c - Generics and Enums
+
+Go to the TypeScript playground [here](https://www.typescriptlang.org/play?#code/PTAEFEDsFcFtRrARgUwE4GcCwAoAZtJAMYAuAlgPaQJzplEAUZkADtCQJSgDeuooZPKCat2oALyTQAOVpp6AOgAqACzQoUXXjn791JaGmok00FAG4+oAL5X9h6ngCGAGwwXctnLiJUMFFxQFFwoAcwZEOkYABg4Oc1AQUAB1FXoVUAA3VzNQeyMMUBMzAH5cXCSAcRRIKNAnQoJicioigE8WFFxmEnRnIhQZJ1gUAEFQlAAFdH9IAB4lABpQAFUAPh4rBgBrFDaALlAlrNdDlY5DzIoyABNLHC9cJtJKakhhqZdoDHGUCI-lk4Jlo7CgDEZQAADACSAHJ4AASbjvEbWQETG6gJFAlDWSH3R44XyQfyBYJhf4jSZfH4TBgAIgAUhQVNQACIUFD05YAZgAnHFyjhAiR6hhZMgZodpB9ftNMK1xAgPtTvr97sTSUEQuEGhLUJgGNFogB2XkCjhCkVigDKJmYoQw0tlE3lswkyqpNPVPj8AW1FL1cANGAZzNZoA5XPNcSAA). Can you fix the errors?
+
+### Ex 4
+
+- Install TypeScript
+
+```
+npm i typescript --save-dev
+```
+
+- Initialize new TypeScript Project
+
+```
+npx tsc --init
+```
+
+- Rename `index.js` to `index.ts` and compile the code:
+
+```
+npx tsc
+```
+
+> You can also enable watch mode by running `npx tsc -w`
+
+- Add the compile step to the npm scripts
+
+- Fix the errors in the terminal, so the code will compile.
+
+### Ex 5
+
+- Add the correct types to the `index.ts` file. What types need to be added? Can you make use of interfaces, or combine types?
+
+- Combine the requests to these endpoints so'll get one function that combines the `order` and `customer` data in one object. (hint: there's an id for customer inside the `order` request).
+
+
+### Ex 6 - Reduce
+
+https://www.typescriptlang.org/play?&q=107#code/C4TwDgpgBAChD2YA20C8UDeBYAUFKAdgIYC2EAXFAM7ABOAlgQOYA0u+RTFhAriQEYRauAL65cAY3gEaUSIhSU4CiAG0AulHSr2mQqW4ByAIJJ6EiIZZRO3AEwBGKCLZ49xMpUMBZIgA8rGy5KOwAGZ1d8DH1PKEMAKSICS2tbEPCxHHUAbnEcADMeAglgemkoJlp4HjAAIRAACnh+ACsIEuNaWiIQJQRkNXVrMCrIWlBKGgZmAEpMXVoIYB5aAihmto6unoA6RYATHgsGwuLS8oaiCQlyaw257Dd8FGAoAGsIEC111tURxCEoHUunw9HyUAaAEIrhJVB8QOoHiD8DZrnDPpptMCns5kTD0QidmAeFQABZNVozZGLZarVESXQuTAiKk4TKSaRUeAoHZIeBMBqVap1RryAbWQy2QwzGZAA
